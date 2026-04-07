@@ -53,7 +53,7 @@ Fix ray tracing performance, boost FPS, eliminate RE Engine stutters, optimize V
 🔐 **** `1847`
 
 ---
-
+KEY: resident evil 4 remake mod, re4 combat mod, re4 difficulty mod, re4 weapon tweaker, resident evil 4 survival horror mod, re4 remake ammo mod, re4 enemy health mod, re4 parry mod, re4 balance mod
 ### 📁 What's Inside the Archive
 
 ```
