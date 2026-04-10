@@ -1,6 +1,6 @@
 
 
-# 🧟 Resident Evil Requiem Mod Pack 2026 — FPS Boost, RT Fix & Performance Tweaks
+#  Resident Evil Requiem Mod Pack 2026 — FPS Boost, RT Fix & Performance Tweaks
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/RE4-Remake-Mod-Pack)](https://github.com/Alexantros341/RE4-Remake-Mod-Pack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
